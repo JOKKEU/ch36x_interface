@@ -20,7 +20,7 @@
 #define DEVICE_NAME "/dev/ch36xpci0"
 
 /* parameters of display*/
-#define DISP_NAME "Cryptosoft"
+#define DISP_NAME "CH36X"
 #define SIZE_W 1200
 #define SIZE_H 800
 
